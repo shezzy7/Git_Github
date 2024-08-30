@@ -1,0 +1,2 @@
+init - this command us used to create a new repositorie.Mean if we don't clone a repo from our github instead of cloning already existing repo we want to create another repo of a new folder then we use this command
+Open directory on terminal which we want to make repo.And then enter command -> git init   . This will create a repo fo this directory on gitHub.

@@ -1,0 +1,9 @@
+add :- this command adds new or changed files in our working directory to the Git staging area.Basically before commiting our modified file we have to add it and then after adding the status of file becomes staged.
+syntax -> git add fileName
+we can add files one by one if we want to add specific files but if we want to add all the files of working directory then we write a single dot replacing files name command -> git add .
+
+After adding next step is commiting.Commit is final descision that says that add these changes authentically like a stamp.
+syntax -> git commit -m "some message"
+we can write any messge but it will be beneficial if we write some good msg that may descibe our changes or what are we commiting
+After commiting our modified files with keyword M alongside their name will be looking normal.
+Now our modified and untracked data will be in memory of git and if we want to see these changes on our github repo then for this we use push command.

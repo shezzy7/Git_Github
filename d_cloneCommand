@@ -1,0 +1,5 @@
+            clone
+clone basically refers to copy of something.For example if we save a picture from instagram then it will be saved to our gallery it means that that we have cloned that picture.So in git clone means cloning a repository on our local machine.Mean if we have a repository on github and we want to save/access it on our loacl machine we get this by using clone command.
+for cloning we use command -> git clone <-some link->
+Here we paste link of our github repository.For getting link we go to our repository and press the 'code' button ,copy https link and paste this link here.
+After cloning if we made any change to any file if prevoulsy was present in our repository then after saving these changes this file name's color will change and a letter M will apear with this file's name which means this file is modified and we have to commit it to save these changes on our github.

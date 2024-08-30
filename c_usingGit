@@ -1,0 +1,10 @@
+            //Git
+//for using git we have to first download it for our system.For downloading this go to 'git-scm' and download it for windows/macbook/linus.
+//we can use git in three ways first is using 'command line' which is most popular method,second one is using code editors/IDE like vs code and third one is using Graphical user interface.But the most popular and useful method is do this using command line so we will explore this.
+
+                //configuring git
+//configure means for  making setup of something do things which are needed Before.
+//lets set our global user name and  email
+//comaand -> git config --global user.name "user name"
+//command -> git config --global user.email "email"
+//and then to check our given/saved detail we can use command -> git config --list

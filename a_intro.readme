@@ -1,0 +1,6 @@
+                    Git
+//Git is a free and open source control system(tool that help to track changes in code).It helps us in detecting changes in our code.For example if we work on a project and write some bunch of code of this project then later i make my mind to make some changes to my project so i make changes to my code.But later i realised that my previous project was good than this updated one, so to change my project's code i need to vanish all the changes that i have maded.In this scenario Git will me to find all the lines of code that were written later in code.In short it stores history of code.
+//Git also helps in collaboration.
+
+                    GitHub
+//GitHub is a website where we host repositories online.If we builded a project and mention it in our portfolio,if someone like interviewer may ask to show him our code that we wrote on this project.In this scenario GitHub helps us in providing our code.We push our writen code to github and then simply we can send him link of this repository of github.

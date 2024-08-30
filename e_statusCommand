@@ -1,0 +1,4 @@
+status command displays the state of the code.
+There are four stages of any file in term of git one is untracked(newly created files),second is unmodified(files which are already present in git),third is modified(files which are newly created or already present but some data is added or removed from them) and last one is staged(when a modified file is added then its status becoms staged mean only commit is remaining).
+So we can check status of any file in working directory directory.
+command -> git status
